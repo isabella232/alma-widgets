@@ -83,7 +83,7 @@
     "@alma/client": "^1.1.2",
     "classnames": "^2.2.6",
     "lodash.isplainobject": "^4.0.6",
-    "preact": "^10.5.7"
+    "preact": "^10.6.6"
   },
   "commitlint": {
     "extends": [
